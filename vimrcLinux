@@ -2,7 +2,7 @@ source $VIMRUNTIME/defaults.vim
 
 "merkkaus (voi olla tarve lisäpaketeille)
 syntax on
-colorscheme desert
+"colorscheme desert
 
 set nocompatible
 filetype plugin on
