@@ -1,3 +1,4 @@
+" Linux pohjaisille OS:lle
 source $VIMRUNTIME/defaults.vim
 
 "merkkaus (voi olla tarve lisäpaketeille)
